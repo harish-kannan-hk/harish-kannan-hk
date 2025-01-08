@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harishbe&label=Profile%20views&color=0e75b6&style=flat" alt="harish-kannan-hk" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harish-kannan-hk" alt="harish-kannan-hk" /></a> </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harippriyasiva" alt="harippriyasiva" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harippriyasiva" alt="harish-kannan-hk" /></a> </p>
 I believe in **#SharingIsCaring**, so I'm here to share my journey, projects, and learnings with you!
 
 <div align="center">
