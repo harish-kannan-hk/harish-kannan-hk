@@ -18,6 +18,15 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harishbe" alt="harishbe" /></a> </p>
 
+
+I believe in **#SharingIsCaring**, so I'm here to share my journey, projects, and learnings with you!
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Data_Analyst-Passion-brightgreen" alt="Data Analyst Badge" />
+  <img src="https://img.shields.io/badge/Excel-Expert-blue" alt="Excel Badge" />
+  <img src="https://img.shields.io/badge/SQL-Proficient-orange" alt="SQL Badge" />
+</div>
+
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/harishselvakannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="S. Harish" height="30" width="40" /></a>
