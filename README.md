@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm S. Harish</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=harishbe&label=Profile%20views&color=0e75b6&style=flat" alt="harishbe" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=harishbe&label=Profile%20views&color=0e75b6&style=flat" alt="harish-kannan-hk" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harishbe" alt="harishbe" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harish-kannan-hk" alt="harish-kannan-hk" /></a> </p>
 
 
 I believe in **#SharingIsCaring**, so I'm here to share my journey, projects, and learnings with you!
