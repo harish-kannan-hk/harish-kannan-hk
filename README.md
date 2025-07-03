@@ -53,15 +53,5 @@ I believe in **#SharingIsCaring**, so I'm here to share my journey, projects, an
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+new+roman&weight=5000&size=28&duration=4000&pause=1000&color=7B1342&background=655CFF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+stopping+by!;Let's+connect+and+grow+🤝!" alt="Typing SVG" /></a>
 </h3>
 
-<div align="center">
-   <h2 align="center">📈 Stats</h2>
-   <br>
-   <div align="center">
-      <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=harishbe&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-      <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=harishbe&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-      <br/>
-      <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishbe&layout=compact"/>
-   </div>
-</div>
 <hr/>
 
