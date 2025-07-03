@@ -43,15 +43,5 @@ I believe in **#SharingIsCaring**, so I'm here to share my journey, projects, an
   	<a href="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
   </a>
 </p>
-
-<div align="center">
-   <h2 align="center">📊 GitHub Graph</h2>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishbe&bg_color=130b10&color=c24cba&line=c59bc2&point=4e3b3b&area=true&hide_border=true">
-</div>
-
-<h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+new+roman&weight=5000&size=28&duration=4000&pause=1000&color=7B1342&background=655CFF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+stopping+by!;Let's+connect+and+grow+🤝!" alt="Typing SVG" /></a>
-</h3>
-
 <hr/>
 
